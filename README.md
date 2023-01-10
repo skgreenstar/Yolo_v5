@@ -1,6 +1,6 @@
 # Yolo_v5
 ### YOLO 셋팅 방법 가이드 ( YOLO v5 ) 
-###### YoLo는 버전별로 상이 - 자세한건 논문 참고
+###### YoLo는 버전별로 상이 - 버전별 성능 비교 (https://learnopencv.com/performance-comparison-of-yolo-models/)
 
 ##### 환경 셋팅을 위한 사전에 맞춰야하는 버전 - **YOLO v5 기준 : 최소 Python ≥ 3.8 and PyTorch≥1.7**
 ##### Yolo 셋팅 전에 선택한 사양에 맞춰서 CPU or GPU에서 각각 사전 작업 필요 - 아래 내용 참고
